@@ -9,7 +9,6 @@ import { LiaPlaneDepartureSolid } from "react-icons/lia";
 import { FcGoogle } from "react-icons/fc";
 import { BsFacebook } from "react-icons/bs";
 
-
 const Form = () => {
 
     const [page, setPage] = useState(0);
